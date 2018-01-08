@@ -1,4 +1,4 @@
 
-### blog: [wencaizhang.com/blog](wencaizhang.com/blog)
+### blog: [http://wencaizhang.com/blog](http://wencaizhang.com/blog)
 
-### demo: [wencaizhang.com/demo](wencaizhang.com/demo)
+### demo: [http://wencaizhang.com/demo](http://wencaizhang.com/demo)
