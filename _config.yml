@@ -20,12 +20,12 @@ menu:
   th-list:
     text: 目录
     url: /categories
-  github:
-    url: https://github.com/wencaistorm
-    target: _blank
-  code:
-    url: http://wencaizhang.com/code-analysis/
-    target: _blank
+  # github:
+  #   url: https://github.com/wencaistorm
+  #   target: _blank
+  # code:
+  #   url: http://wencaizhang.com/code-analysis/
+  #   target: _blank
   user-circle:
     text: About
     url: /about
